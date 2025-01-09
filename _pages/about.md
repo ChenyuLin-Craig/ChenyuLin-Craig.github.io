@@ -19,7 +19,7 @@ redirect_from:
 
 Hi! I'm a third-year master student majoring Computer Science from Sichuan University, under the guidance of [Prof.Jiancheng Lv](https://scholar.google.com.hk/citations?user=0TCaWKwAAAAJ&hl=zh-CN&oi=ao). Before that I obtained my B.S. degree from Sichuan University.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My current research interest focuses on *Generative AI* and *Spatial Intelligence*. Meanwhile, I'm broadly interested in *Computer Vision* and *Multimodal Learning* topics. 
 
 
 # 🔥 News
