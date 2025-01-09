@@ -37,14 +37,6 @@ My current research interest focuses on **Generative AI** and **Spatial Intellig
 **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI2024</div><img src='images/aaai24.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Zero-Shot Aerial Object Detection with Visual Description Regularization](https://ojs.aaai.org/index.php/AAAI/article/download/28518/29010)
-
-Zhengqing Zang &dagger;, **Chenyu Lin &dagger;**, Chenwei Tang, Tao Wang, Jiancheng Lv
-
-
 # 🎖 Honors and Awards
 - *2024.11* National Scholarship
 - *2024.10* Postgraduate First Level Scholarship(Top 5%), Sichuan University
