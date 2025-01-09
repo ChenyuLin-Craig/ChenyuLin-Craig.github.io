@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I'm a third-year master student majoring Computer Science from Sichuan University, under the guidance of [Prof.Jiancheng Lv](https://scholar.google.com.hk/citations?user=0TCaWKwAAAAJ&hl=zh-CN&oi=ao). Before that I obtained my B.S. degree from Sichuan University.
+Hi! I'm a third-year master student majoring Computer Science from Sichuan University, under the guidance of [Prof.Jiancheng Lv](https://scholar.google.com.hk/citations?user=0TCaWKwAAAAJ&hl=zh-CN&oi=ao) and [Prof.Tao Wang](https://twangnh.github.io/Home.html). Before that I obtained my B.S. degree from Sichuan University.
 
 My current research interest focuses on **Generative AI** and **Spatial Intelligence**. Meanwhile, I'm broadly interested in **Computer Vision** and **Multimodal Learning** topics. 
 
@@ -29,7 +29,7 @@ My current research interest focuses on **Generative AI** and **Spatial Intellig
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/aaai24.png' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
