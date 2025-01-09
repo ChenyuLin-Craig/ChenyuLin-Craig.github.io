@@ -35,6 +35,8 @@ My current research interest focuses on **Generative AI** and **Spatial Intellig
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
 **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+</div>
+</div>
 
 
 # 🎖 Honors and Awards
