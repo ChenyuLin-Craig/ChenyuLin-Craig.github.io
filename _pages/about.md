@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/a3f72b8a-83b4-4017-b1ce-f945a4dbf280)![image](https://github.com/user-attachments/assets/c21789a7-37ba-40f0-aa8a-3e882dedfa18)---
 permalink: /
 title: ""
 excerpt: ""
@@ -38,16 +38,14 @@ Zhengqing Zang &dagger;, **Chenyu Lin &dagger;**, Chenwei Tang, Tao Wang, Jianch
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.11* National Scholarship
+- *2024.10* Postgraduate First Level Scholarship(Top 5%), Sichuan University
+- *2024.10* Outstanding Graduates, Sichuan University
+- *2021.10* First Level Scholarship(Top 3%), Sichuan University
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2022.09 - 2025.06 (expected)*, M.S. degree, Sichuan University
+- *2018.09 - 2022.06*, B.S. degree, Sichuan University
 
 # 💻 Internships
 - *2025.02 - 2025.08(expected)*, Research Assistant, supervied by [Prof.Kaiyang Zhou](https://kaiyangzhou.github.io/)
