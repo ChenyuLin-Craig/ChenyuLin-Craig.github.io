@@ -28,9 +28,13 @@ My current research interest focuses on **Generative AI** and **Spatial Intellig
 - *2023.10*: &nbsp;🎉🎉 3rd place at [Visual Continual Learning Object Detection Challenge](https://wvcl.vis.xyz/) at *ICCV 2023*.  
 
 # 📝 Publications 
-[Zero-Shot Aerial Object Detection with Visual Description Regularization](https://ojs.aaai.org/index.php/AAAI/article/download/28518/29010)
 
-Zhengqing Zang &dagger;, **Chenyu Lin &dagger;**, Chenwei Tang, Tao Wang, Jiancheng Lv
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+
+**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
 
 # 🎖 Honors and Awards
