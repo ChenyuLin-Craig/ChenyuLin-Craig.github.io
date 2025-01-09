@@ -28,10 +28,9 @@ My current research interest focuses on *Generative AI* and *Spatial Intelligenc
 - *2023.10*: &nbsp;🎉🎉 3rd place at [Visual Continual Learning Object Detection Challenge](https://wvcl.vis.xyz/) at ICCV 2023.  
 
 # 📝 Publications 
-[Zero-Shot Aerial Object Detection with Visual Description Regularization]
-(https://ojs.aaai.org/index.php/AAAI/article/download/28518/29010)
+[Zero-Shot Aerial Object Detection with Visual Description Regularization](https://ojs.aaai.org/index.php/AAAI/article/download/28518/29010)
 
-Zhengqing Zang\dagger, **Chenyu Lin\dagger**, Chenwei Tang, Tao Wang, Jiancheng Lv
+Zhengqing Zang &dagger;, **Chenyu Lin &dagger;**, Chenwei Tang, Tao Wang, Jiancheng Lv
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
