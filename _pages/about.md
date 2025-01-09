@@ -19,16 +19,17 @@ redirect_from:
 
 Hi! I'm a third-year master student majoring Computer Science from Sichuan University, under the guidance of [Prof.Jiancheng Lv](https://scholar.google.com.hk/citations?user=0TCaWKwAAAAJ&hl=zh-CN&oi=ao). Before that I obtained my B.S. degree from Sichuan University.
 
-My current research interest focuses on *Generative AI* and *Spatial Intelligence*. Meanwhile, I'm broadly interested in *Computer Vision* and *Multimodal Learning* topics. 
+My current research interest focuses on **Generative AI** and **Spatial Intelligence**. Meanwhile, I'm broadly interested in **Computer Vision** and **Multimodal Learning** topics. 
 
 
 # 🔥 News
 - *2024.10*: &nbsp;🎉🎉 3rd prize at [Jittor Competition](https://www.educoder.net/competitions/index/Jittor-5)
 - *2023.12*: &nbsp;🎉🎉 Our paper is accepted by *AAAI24*.
-- *2023.10*: &nbsp;🎉🎉 3rd place at [Visual Continual Learning Object Detection Challenge](https://wvcl.vis.xyz/) at ICCV 2023.  
+- *2023.10*: &nbsp;🎉🎉 3rd place at [Visual Continual Learning Object Detection Challenge](https://wvcl.vis.xyz/) at *ICCV 2023*.  
 
 # 📝 Publications 
 [Zero-Shot Aerial Object Detection with Visual Description Regularization](https://ojs.aaai.org/index.php/AAAI/article/download/28518/29010)
+
 Zhengqing Zang &dagger;, **Chenyu Lin &dagger;**, Chenwei Tang, Tao Wang, Jiancheng Lv
 
 
