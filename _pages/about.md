@@ -34,7 +34,7 @@ My current research interest focuses on **Generative AI** and **Spatial Intellig
 
 [Zero-Shot Aerial Object Detection with Visual Description Regularization](https://ojs.aaai.org/index.php/AAAI/article/download/28518/29010)
 
-Zhengqing Zang<sup>\*</sup> ;, **Chenyu Lin <sup>\*</sup>;**, Chenwei Tang, Tao Wang, Jiancheng Lv
+Zhengqing Zang<sup>\*</sup>, **Chenyu Lin <sup>\*</sup>**, Chenwei Tang, Tao Wang, Jiancheng Lv
 </div>
 </div>
 
