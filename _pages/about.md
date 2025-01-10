@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I'm a third-year master student majoring Computer Science from Sichuan University, under the guidance of [Prof.Jiancheng Lv](https://scholar.google.com.hk/citations?user=0TCaWKwAAAAJ&hl=zh-CN&oi=ao) and [Prof.Tao Wang](https://twangnh.github.io/Home.html). Before that I obtained my B.S. degree from Sichuan University.
+Hi! I'm a third-year master student majoring in Computer Science from Sichuan University, under the guidance of [Prof.Jiancheng Lv](https://scholar.google.com.hk/citations?user=0TCaWKwAAAAJ&hl=zh-CN&oi=ao) and [Prof.Tao Wang](https://twangnh.github.io/Home.html). Before that I obtained my B.S. degree from Sichuan University.
 
 My current research interest focuses on **Generative AI** and **Spatial Intelligence**. Meanwhile, I'm broadly interested in **Computer Vision** and **Multimodal Learning** topics. 
 
@@ -50,4 +50,4 @@ Zhengqing Zang<sup>\*</sup>, **Chenyu Lin <sup>\*</sup>**, Chenwei Tang, Tao Wan
 - *2018.09 - 2022.06*,  B.S. degree, Sichuan University
 
 # 💻 Internships
-- *2025.02 - 2025.08(expected)*, Research Assistant, supervied by [Prof.Kaiyang Zhou](https://kaiyangzhou.github.io/)
+- *2025.02 - 2025.08(expected)*, Research Assistant, Hong Kong Baptist University, supervied by [Prof.Kaiyang Zhou](https://kaiyangzhou.github.io/)
