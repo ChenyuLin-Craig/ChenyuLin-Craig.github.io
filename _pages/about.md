@@ -19,7 +19,7 @@ redirect_from:
 
 Hi! I'm a first-year PhD candidate majoring in Computer Science at Hong Kong Baptist University, under the supervision of [Prof.Kaiyang Zhou](https://kaiyangzhou.github.io/). Before that, I obtained my B.S. and M.S. degree from Sichuan University, under the guidance of [Prof.Jiancheng Lv](https://scholar.google.com.hk/citations?user=0TCaWKwAAAAJ&hl=zh-CN&oi=ao) and [Prof.Tao Wang](https://twangnh.github.io/Home.html)
 
-My current research interest focuses on **Multi-modal Large Language Models**. Feel free to contact me.
+My current research interest focuses on **Multimodal Large Language Models**. Feel free to contact me.
 
 
 # 🔥 News
