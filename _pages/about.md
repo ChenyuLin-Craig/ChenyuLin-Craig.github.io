@@ -46,8 +46,8 @@ Zhengqing Zang<sup>\*</sup>, **Chenyu Lin <sup>\*</sup>**, Chenwei Tang, Tao Wan
 - *2021.10*  First Level Scholarship(Top 3%), Sichuan University
 
 # 📖 Educations
-- *2022.09 - 2025.06 (expected)*,  M.S. degree, Sichuan University
+- *2022.09 - 2025.06*,  M.S. degree, Sichuan University
 - *2018.09 - 2022.06*,  B.S. degree, Sichuan University
 
 # 💻 Internships
-- *2025.02 - 2025.08(expected)*, Research Assistant, Hong Kong Baptist University, supervied by [Prof.Kaiyang Zhou](https://kaiyangzhou.github.io/)
+- *2025.02 - 2025.08*, Research Assistant, Hong Kong Baptist University, supervied by [Prof.Kaiyang Zhou](https://kaiyangzhou.github.io/)
