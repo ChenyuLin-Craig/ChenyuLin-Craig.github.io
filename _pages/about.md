@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I'm a third-year master student majoring in Computer Science from Sichuan University, under the guidance of [Prof.Jiancheng Lv](https://scholar.google.com.hk/citations?user=0TCaWKwAAAAJ&hl=zh-CN&oi=ao) and [Prof.Tao Wang](https://twangnh.github.io/Home.html). Before that I obtained my B.S. degree from Sichuan University.
+Hi! I'm a first-year PhD candidate majoring in Computer Science at Hong Kong Baptist University, under the supervision of [Prof.Kaiyang Zhou](https://kaiyangzhou.github.io/). Before that, I obtained my B.S. and M.S. degree from Sichuan University, under the guidance of [Prof.Jiancheng Lv](https://scholar.google.com.hk/citations?user=0TCaWKwAAAAJ&hl=zh-CN&oi=ao) and [Prof.Tao Wang](https://twangnh.github.io/Home.html)
 
-My current research interest focuses on **Generative AI** and **Spatial Intelligence**. Meanwhile, I'm broadly interested in **Computer Vision** and **Multimodal Learning** topics. 
+My current research interest focuses on **Multi-modal Large Language Models**. Feel free to contact me.
 
 
 # 🔥 News
