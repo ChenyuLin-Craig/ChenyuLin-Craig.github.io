@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I'm a first-year PhD student majoring in Computer Science at Hong Kong Baptist University, under the supervision of [Prof.Kaiyang Zhou](https://kaiyangzhou.github.io/). Before that, I obtained my B.S. and M.S. degree from Sichuan University, under the guidance of [Prof.Jiancheng Lv](https://scholar.google.com.hk/citations?user=0TCaWKwAAAAJ&hl=zh-CN&oi=ao) and [Prof.Tao Wang](https://twangnh.github.io/Home.html)
+Hi! I'm a first-year PhD student majoring in Computer Science at Hong Kong Baptist University, under the supervision of [Prof.Kaiyang Zhou](https://kaiyangzhou.github.io/). Before that, I obtained my B.S. and M.S. degree from Sichuan University, under the guidance of [Prof.Jiancheng Lv](https://scholar.google.com.hk/citations?user=0TCaWKwAAAAJ&hl=zh-CN&oi=ao) and [Prof.Tao Wang](https://twangnh.github.io/)
 
 My current research interest focuses on **Visual Language Models**. Feel free to contact me.
 
