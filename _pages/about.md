@@ -58,7 +58,7 @@ Zhengqing Zang<sup>\*</sup>, **Chenyu Lin <sup>\*</sup>**, Chenwei Tang, Tao Wan
 </div>
 
 
-# 🎖 Honors and Awards
+# 🏆 Honors and Awards
 - *2024.11*  National Scholarship
 - *2024.10*  Postgraduate First Level Scholarship(Top 5%), Sichuan University
 - *2024.10*  Outstanding Graduates, Sichuan University
