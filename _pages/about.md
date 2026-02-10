@@ -23,8 +23,8 @@ My current research interest focuses on **Visual Language Models**. Feel free to
 
 
 # 🔥 News
-- *2026.01*: &nbsp;🎉🎉 Our paper is accepted by *ICLR2026*
-- *2024.10*: &nbsp;🎉🎉 3rd prize at [Jittor Competition](https://www.educoder.net/competitions/index/Jittor-5)
+- *2026.01*: &nbsp;🎉🎉 Our paper is accepted by *ICLR2026*.
+- *2024.10*: &nbsp;🎉🎉 3rd prize at [Jittor Competition](https://www.educoder.net/competitions/index/Jittor-5).
 - *2023.12*: &nbsp;🎉🎉 Our paper is accepted by *AAAI2024*.
 - *2023.10*: &nbsp;🎉🎉 3rd place at [Visual Continual Learning Object Detection Challenge](https://wvcl.vis.xyz/) at *ICCV 2023*.  
 
