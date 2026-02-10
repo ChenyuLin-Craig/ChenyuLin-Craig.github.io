@@ -35,7 +35,7 @@ My current research interest focuses on **Visual Language Models**. Feel free to
 
 [Fine-tuning Quantized Neural Networks with Zeroth-order Optimization](https://arxiv.org/pdf/2505.13430?)
 
-Sifeng Shang, Jiayi Zhou, **Chenyu Lin**, Minxian Li, Kaiyang Zhou
+Sifeng Shang, Jiayi Zhou, **Chenyu Lin**, Minxian Li, Kaiyang Zhou<sup>&dagger;</sup>
 </div>
 </div>
 
@@ -44,7 +44,7 @@ Sifeng Shang, Jiayi Zhou, **Chenyu Lin**, Minxian Li, Kaiyang Zhou
 
 [Learning to Think Fast and Slow for Visual Language Models](https://arxiv.org/pdf/2511.16670)
 
-**Chenyu Lin**, Cheng Chi, Jinlin Wu, Sharon Li, Kaiyang Zhou
+**Chenyu Lin**, Cheng Chi<sup>&dagger;</sup>, Jinlin Wu, Sharon Li, Kaiyang Zhou<sup>&dagger;</sup>
 </div>
 </div>
 
@@ -53,7 +53,7 @@ Sifeng Shang, Jiayi Zhou, **Chenyu Lin**, Minxian Li, Kaiyang Zhou
 
 [Zero-Shot Aerial Object Detection with Visual Description Regularization](https://ojs.aaai.org/index.php/AAAI/article/download/28518/29010)
 
-Zhengqing Zang<sup>\*</sup>, **Chenyu Lin <sup>\*</sup>**, Chenwei Tang, Tao Wang, Jiancheng Lv
+Zhengqing Zang<sup>\*</sup>, **Chenyu Lin <sup>\*</sup>**, Chenwei Tang, Tao Wang<sup>&dagger;</sup>, Jiancheng Lv
 </div>
 </div>
 
