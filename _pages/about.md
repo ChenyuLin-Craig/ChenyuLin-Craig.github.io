@@ -29,7 +29,7 @@ My current research interest focuses on **Visual Language Models**. Feel free to
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/aaai24.png' alt="sym" width="75%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/QZO.jpg' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Fine-tuning Quantized Neural Networks with Zeroth-order Optimization](https://arxiv.org/pdf/2505.13430?)
@@ -38,7 +38,7 @@ Sifeng Shang, Jiayi Zhou, **Chenyu Lin**, Minxian Li, Kaiyang Zhou
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/aaai24.png' alt="sym" width="75%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/dualmind.png' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Learning to Think Fast and Slow for Visual Language Models](https://arxiv.org/pdf/2511.16670)
